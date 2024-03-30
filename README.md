@@ -6,5 +6,3 @@
 I am curious about using computation to better understand nature.
 
 Currently interested in data science and data visualization. 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igaszczesniak&theme=algolia&layout=compact)
